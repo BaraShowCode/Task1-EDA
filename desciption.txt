@@ -1,0 +1,8 @@
+# Task 1: Exploratory Data Analysis (EDA) on a Public Dataset
+Description: Analyze a public dataset (e.g., Titanic, Iris, or a dataset from Kaggle) to understand its structure, perform data cleaning, and extract insights. Use visualizations to support fi ndings and summarize observations.
+Skills: Python, Pandas, NumPy, Matplotlib, Seaborn.
+Objectives:
+Load and explore the dataset to understand the features and data types.
+Handle missing values, outliers, and perform data cleaning.
+Generate visualizations (histograms, bar plots, scatter plots) to uncover patterns.
+Summarize fi ndings in a report.
